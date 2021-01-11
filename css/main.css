@@ -1,0 +1,45 @@
+.nav-menu {
+  text-align: right;
+}
+.nav-link {
+  text-decoration: none;
+  color: blue;
+}
+.nav-spacing {
+  margin: 0 0 0 10px;
+}
+.image-link {
+  text-decoration: none;
+}
+.blockquote-home {
+  padding: 2px 20px;
+  background: #d9dade;
+}
+.header {
+  text-align: center;
+  margin: 0 0 80px;
+}
+.image-center {
+  display: block;
+  margin: 0 auto;
+}
+.box {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+.image-cover {
+  float: left;
+  margin: 0 40px 0 0;
+}
+.blockquote-moby {
+  font-style: italic;
+  font-size: 20px;
+}
+.first-line {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff0000;"
+}
